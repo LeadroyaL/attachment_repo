@@ -1,0 +1,43 @@
+01-08 17:31:52.796 22314-22314/? D/LOVE_XIXI: ======== start run =======
+01-08 17:31:52.796 22314-22314/? D/LOVE_XIXI: You call b
+01-08 17:31:52.797 23313-23313/? D/LOVE_XIXI: com.mipay.wallet
+01-08 17:31:52.809 22314-22314/? D/LOVE_XIXI: And return [B@39d84962
+01-08 17:31:52.809 22314-22314/? D/LOVE_XIXI: You call b
+01-08 17:31:52.809 22314-22314/? D/LOVE_XIXI: And return EC33AB8B4ECEB9B1BEF8DC5BB6C56023
+01-08 17:31:52.809 22314-22314/? D/LOVE_XIXI: You call b
+01-08 17:31:52.810 22314-22314/? D/LOVE_XIXI: And return 11101100001100111010101110001011010011101100111010111001101100011011111011111000110111000101101110110110110001010110000000100011
+01-08 17:31:52.810 22314-22314/? D/LOVE_XIXI: You call a
+01-08 17:31:52.810 22314-22314/? D/LOVE_XIXI: And return [B@2b3f4af3
+01-08 17:31:52.810 22314-22314/? D/LOVE_XIXI: You call b
+01-08 17:31:52.810 22314-22314/? D/LOVE_XIXI: And return [C@1dbb23b0
+01-08 17:31:52.811 22314-22314/? D/LOVE_XIXI: result is !#~&(!+&!#~(!_~(!#%(!_+(!_+*!_+&!#~(!_%&!^~&!#+((_~;!#+(!#%(!_+(!#~&!_+(!^%(!_~(!^$(!#+?
+01-08 17:31:52.811 22314-22314/? D/LOVE_XIXI: ======== after run =======
+
+
+01-08 17:44:04.954 6868-6868/? D/LOVE_XIXI: You call d	a.a.c
+01-08 17:44:04.954 6868-6868/? D/LOVE_XIXI: ======== start run =======
+01-08 17:44:04.954 6868-6868/? D/LOVE_XIXI: You call b	a.a.c
+01-08 17:44:04.964 6868-6868/? D/LOVE_XIXI: And return type [B
+01-08 17:44:04.964 6868-6868/? D/LOVE_XIXI: And return value [B@130df1bd
+01-08 17:44:04.964 6868-6868/? D/LOVE_XIXI: You call b	a.a.c
+01-08 17:44:04.964 6868-6868/? D/LOVE_XIXI: And return type java.lang.String
+01-08 17:44:04.964 6868-6868/? D/LOVE_XIXI: And return value EC33AB8B4ECEB9B1BEF8DC5BB6C56023
+01-08 17:44:04.964 6868-6868/? D/LOVE_XIXI: You call b	a.a.c
+01-08 17:44:04.965 6868-6868/? D/LOVE_XIXI: And return type java.lang.String
+01-08 17:44:04.965 6868-6868/? D/LOVE_XIXI: And return value 11101100001100111010101110001011010011101100111010111001101100011011111011111000110111000101101110110110110001010110000000100011
+01-08 17:44:04.965 6868-6868/? D/LOVE_XIXI: You call a	a.a.c
+01-08 17:44:04.965 6868-6868/? D/LOVE_XIXI: And return type [B
+01-08 17:44:04.965 6868-6868/? D/LOVE_XIXI: And return value [B@11c5b3b2
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: You call b	a.a.b
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: And return type [C
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: And return value [C@3b99ef03
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: result is !#~&(!+&!#~(!_~(!#%(!_+(!_+*!_+&!#~(!_%&!^~&!#+((_~;!#+(!#%(!_+(!#~&!_+(!^%(!_~(!^$(!#+?
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: ======== after run =======
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: And return type java.lang.String
+01-08 17:44:04.966 6868-6868/? D/LOVE_XIXI: And return value !#~&(!+&!#~(!_~(!#%(!_+(!_+*!_+&!#~(!_%&!^~&!#+((_~;!#+(!#%(!_+(!#~&!_+(!^%(!_~(!^$(!#+?
+
+a.a.c.b(byte[], byte[]) AES_enc
+a.a.c.b(byte[]) toHexString
+a.a.c.b(String) toBinaryString
+a.a.c.a(String) countZeroOne
+a.a.b.b(byte[]) DIYB64
